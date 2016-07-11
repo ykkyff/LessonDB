@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+target "LessonDouBan_A01" do
+pod 'AFNetworking', '~> 3.1.0'
+pod 'SDWebImage', '~> 3.8.1'
+pod 'BaiduMapKit', '~> 2.10.2'
+end 
